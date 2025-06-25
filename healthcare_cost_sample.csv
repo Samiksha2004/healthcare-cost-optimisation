@@ -1,0 +1,6 @@
+Provider_ID,Provider_Name,Specialty,State,Total_Procedures,Avg_Cost_Per_Procedure,Total_Cost
+10001,Dr. A,Cardiology,NY,200,500,100000
+10002,Dr. B,General Practice,CA,150,200,30000
+10003,Dr. C,Neurology,TX,180,650,117000
+10004,Dr. D,Orthopedics,FL,220,700,154000
+10005,Dr. E,Oncology,IL,160,800,128000
